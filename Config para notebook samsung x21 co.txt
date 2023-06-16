@@ -1,0 +1,23 @@
+Config para notebook samsung x21 com graficos integrados
+
+-SMBIOS
+https://everymac.com/systems/apple/macbook_pro/index-macbookpro.html
+SMBIOS: MacBookPro14,3 - board_id: Mac-551B86E5744E2388 - Suporte_init: 10.12.5 (16F2073) hit
+MacBookPro14,2 	Kaby Lake (U) 	Iris Plus 650 (13") 	Mac-CAD6701F7CEA0921 	10.12.5 (16F2073) medio linha u,m
+
+Type:         MacBookPro14,2
+Serial:       C02VLAZYHV2N
+Board Serial: C02743207CDHRPCAD
+SmUUID:       FC463599-5F55-401F-9729-30625772F33F
+Apple ROM:    1C91484A4167
+
+-USB power
+https://dortania.github.io/OpenCore-Post-Install/usb/misc/power.html
+-Mapear USB
+https://deomkds.github.io/OpenCore-Post-Install/usb/
+
+-ProperTree
+https://github.com/corpnewt/ProperTree
+
+-GenSMBIOS
+https://github.com/corpnewt/GenSMBIOS
