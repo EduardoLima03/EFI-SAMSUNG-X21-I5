@@ -1,0 +1,1 @@
+# EFI-SAMSUNG-X21-I5
