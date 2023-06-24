@@ -27,3 +27,9 @@
     - Tipo de interface  	Ethernet
     - Endereço do hardware  	98-83-89-72-A2-8D
     - Nome da conexão  	Ethernet
+
+## CONFIGURAÇÃO DE AUDIO
+- AppleALC
+    - Supported codecs https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
+        Realtek ALC256/ALC3246  Lauputs: 0x100002, layout 5, 11, 12, 13, 14, 16, 17, 19, 20, 21, 22, 23, 24, 28, 33, 56, 57, 66, 67, 68, 69, 70, 76, 77, 88, 95, 97, 99  13 MinimoOS:(10.9)
+    
