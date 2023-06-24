@@ -23,6 +23,8 @@
     - Tipo de interface  	802.11 Wireless Ethernet
     - Endereço do hardware  	98-83-89-8C-C9-57
     - Nome da conexão  	Wi-Fi
+
+    Placa de wifi não compativel, so bluetooth
 - Realtek RTL8139/810x Fast Ethernet Adapter
     - Tipo de interface  	Ethernet
     - Endereço do hardware  	98-83-89-72-A2-8D
